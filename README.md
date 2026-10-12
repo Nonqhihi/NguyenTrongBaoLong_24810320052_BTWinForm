@@ -3,5 +3,4 @@
 - **Mã số sinh viên:** 24810320052
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** BÀI 5
-
+- **Tên bài tập:** BÀI tập WinForm
